@@ -40,7 +40,7 @@ jQuery(document).ready(function() {
 
     leantime.widgetController.initGrid();
 
-    @if($completedOnboarding === false)
+    @if($completedOnboarding === true)
         leantime.helperController.firstLoginModal();
     @endif
 
