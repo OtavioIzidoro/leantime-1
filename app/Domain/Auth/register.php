@@ -31,7 +31,7 @@ EventDispatcher::add_filter_listener("leantime.core.template.tpl.auth.*.belowWel
 
     $quotes = [];
     $quotes[] = "\"It's the first project management app I've used for more than a week, and it makes sense too.\"<br /><br />- tavao";
-    $quotes[] = "\"For me, Leantime is very cool, because it is lean. Not 3 million options to think about. The more you put in, the more it could be overloaded.\"<br /><br />- tavao";
+    $quotes[] = "\"teste me, Leantime is very cool, because it is lean. Not 3 million options to think about. The more you put in, the more it could be overloaded.\"<br /><br />- tavao";
     $quotes[] = "\"We are a small digital marketing agency and have been using Leantime for a couple of months after switching from ClickUp. Getting great feedback from our clients.\"<br /><br />- tavao";
 
     $random = rand(0,2);
