@@ -218,5 +218,4 @@ This file forms part of the Leantime Software for which the following exception 
 
 #   A g i l e T e a m  
  #   A g i l e T e a m  
- #   A g i l e T e a m  
  
